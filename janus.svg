@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="janus.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path3812"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3788"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3812-7"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3812-9"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3812-97"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3812-5"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="538.25104"
+     inkscape:cy="428.07694"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1598"
+     inkscape:window-height="1027"
+     inkscape:window-x="122"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:snap-grids="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)"
+     style="display:inline">
+    <rect
+       style="fill:#8eea85;fill-opacity:0.97260275;fill-rule:evenodd;stroke:#000000;stroke-width:1.05583024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3788"
+       width="536.0213"
+       height="76.771591"
+       x="269.30093"
+       y="340.20462"
+       ry="10" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3766-4"
+       y="385.57657"
+       x="348.92056"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="385.57657"
+         x="348.92056"
+         id="tspan3768-7"
+         sodipodi:role="line"
+         style="font-size:24px"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3896">GET:</tspan> stacks.lib.umn.edu/janus/</tspan></text>
+    <rect
+       style="fill:#ffa200;fill-opacity:0.92694062;fill-rule:evenodd;stroke:#000000;stroke-width:1.90027606px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3788-9"
+       width="603.89203"
+       height="220.73372"
+       x="224.17355"
+       y="471.72925"
+       ry="28.752007"
+       inkscape:transform-center-x="67.240039"
+       inkscape:transform-center-y="111.80448" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="534.02563"
+       y="509.91028"
+       id="text3860"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3862"
+         x="534.02563"
+         y="509.91028"
+         style="font-size:24px;font-weight:bold;-inkscape-font-specification:Sans Bold">Apache</tspan><tspan
+         sodipodi:role="line"
+         x="534.02563"
+         y="539.91028"
+         id="tspan3864" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.90660286;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 531.34023,417.28933 0,51.20467"
+       id="path3011"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.7919929;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 534.34188,692.03162 0,47.24618"
+       id="path3011-38"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ff00e3;fill-opacity:0.42465754;fill-rule:evenodd;stroke:#000000;stroke-width:1.64340007px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3788-9-7"
+       width="594.1994"
+       height="167.78336"
+       x="230.84271"
+       y="855.02258"
+       ry="21.854877"
+       inkscape:transform-center-x="66.16091"
+       inkscape:transform-center-y="84.984437" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="535.38086"
+       y="886.6972"
+       id="text3832"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3834"
+         x="535.38086"
+         y="886.6972"
+         style="font-size:24px">node.js</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3836"
+       style="font-size:18px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       transform="translate(0,308.2677)"><flowRegion
+         id="flowRegion3838"><rect
+           id="rect3840"
+           width="217.1828"
+           height="61.619305"
+           x="255.56859"
+           y="361.24667" /></flowRegion><flowPara
+         id="flowPara3842" /></flowRoot>    <rect
+       style="fill:#5ea7f8;fill-opacity:0.93150689;fill-rule:evenodd;stroke:#000000;stroke-width:0.79383165px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       id="rect3788-9-3-9"
+       width="387.11639"
+       height="60.091026"
+       x="343.84744"
+       y="740.21906"
+       ry="7.8272476"
+       inkscape:transform-center-x="43.103298"
+       inkscape:transform-center-y="30.436865" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.95077705px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="534.46649"
+       y="776.80011"
+       id="text3898-1"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9972654,1.0027421)"><tspan
+         sodipodi:role="line"
+         id="tspan3900-8"
+         x="534.46649"
+         y="776.80011"
+         style="font-size:24px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Passenger HelperAgent</tspan><tspan
+         sodipodi:role="line"
+         x="534.46649"
+         y="806.80011"
+         style="font-size:24px;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans"
+         id="tspan3012-9" /></text>
+    <rect
+       style="fill:#16e6df;fill-opacity:0.93333333;fill-rule:evenodd;stroke:#000000;stroke-width:1.06490529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       id="rect3788-9-3-4-8"
+       width="496.77887"
+       height="84.26619"
+       x="276.88989"
+       y="907.19354"
+       ry="10.976219"
+       inkscape:transform-center-x="55.313643"
+       inkscape:transform-center-y="42.6819" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="520.2403"
+       y="938.92743"
+       id="text3898-0-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3900-9-5"
+         x="520.2403"
+         y="938.92743"
+         style="font-size:24px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Deploy Directory</tspan><tspan
+         sodipodi:role="line"
+         x="520.2403"
+         y="968.92743"
+         style="font-size:24px;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans"
+         id="tspan3014-9">/$mount/stacks/deploy/janus/</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.90071607;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend);display:inline"
+       d="m 534.34283,800.40379 0,50.99748"
+       id="path3011-3-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="550.53314"
+       y="449.30112"
+       id="text3049"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3051"
+         x="550.53314"
+         y="449.30112"
+         style="font-size:20px;font-weight:bold;-inkscape-font-specification:Sans Bold">HTTP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="552.77502"
+       y="720.24103"
+       id="text3049-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3051-4"
+         x="552.77502"
+         y="720.24103"
+         style="font-size:20px;font-weight:bold;-inkscape-font-specification:Sans Bold">SCGI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="559.62451"
+       y="311.74918"
+       id="text3050"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.2677)"><tspan
+         sodipodi:role="line"
+         id="tspan3052"
+         x="559.62451"
+         y="311.74918" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="555.80542"
+       y="831.35773"
+       id="text3049-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3051-44"
+         x="555.80542"
+         y="831.35773"
+         style="font-size:20px;font-weight:bold;-inkscape-font-specification:Sans Bold">HTTP</tspan></text>
+    <rect
+       style="fill:#f1eee2;fill-opacity:0.97716896;fill-rule:evenodd;stroke:#000000;stroke-width:0.49013561px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3788-9-5"
+       width="238.68469"
+       height="37.153717"
+       x="418.51358"
+       y="527.95178"
+       ry="4.8395138"
+       inkscape:transform-center-x="26.576277"
+       inkscape:transform-center-y="18.818837" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="428.30466"
+       y="553.3468"
+       id="text3921"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3923"
+         x="428.30466"
+         y="553.3468"
+         style="font-size:24px;font-weight:bold;-inkscape-font-specification:Sans Bold">mod_passenger</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.77590001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend);display:inline"
+       d="m 528.28296,563.92825 0,19.11504"
+       id="path3011-38-3"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#16e6df;fill-opacity:0.93333333;fill-rule:evenodd;stroke:#000000;stroke-width:1.13175821px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       id="rect3788-9-3-4-8-6"
+       width="561.1106"
+       height="84.26619"
+       x="246.2395"
+       y="586.97516"
+       ry="10.976219"
+       inkscape:transform-center-x="62.476643"
+       inkscape:transform-center-y="42.6819" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="526.30121"
+       y="620.72937"
+       id="text3898-0-8-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3900-9-5-9"
+         x="526.30121"
+         y="620.72937"
+         style="font-size:24px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Stacks Config Directory</tspan><tspan
+         sodipodi:role="line"
+         x="526.30121"
+         y="650.72937"
+         style="font-size:24px;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans"
+         id="tspan3014-9-4">/swadm/etc/httpd/conf.d/stacks.d/janus.conf</tspan></text>
+  </g>
+</svg>
