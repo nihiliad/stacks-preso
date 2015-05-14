@@ -15,7 +15,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
 		<link rel="stylesheet" href="revealjs/css/reveal.css">
-		<link rel="stylesheet" href="revealjs/css/theme/black.css" id="theme">
+    <!--<link rel="stylesheet" href="revealjs/css/theme/black.css" id="theme">-->
+		<link rel="stylesheet" href="revealjs/css/theme/simple.css" id="theme">
 
 		<!-- Code syntax highlighting -->
 		<link rel="stylesheet" href="revealjs/lib/css/zenburn.css">
@@ -40,6 +41,35 @@
 
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
+        <section>
+          <h2>stacks.lib.umn.edu</h2>
+          <h3>Web Development Staff Meeting</h3>
+          <h3>May 14, 2015</h3>
+          <p><small>David Naughton</small></p>
+        </section>
+
+        <section>
+          <h1>Why?</h1>
+        </section>
+
+        <section>
+          <h2>Don't try to boil the ocean!</h2>
+					<h3>Small incremental changes.</h3>
+        </section>
+
+        <section>
+          <h2>Problems</h2>
+          <h3>1 Apache. 1 Docroot. All Apps.</h3>
+          <ul>
+            <li class="fragment">Many tightly-coupled apps.</li>
+            <li class="fragment">All code in the docroot&mdash;potential security risk.</li>
+            <li class="fragment">Difficult to manage apps independently of each other.</li>
+            <li class="fragment">Difficult to automate much of anything.</li>
+            <li class="fragment">Too big to fit in one Git repo.</li>
+            <li class="fragment">Impossible to move main site to OIT Drupal.</li>
+          </ul>
+        </section>
+
 				<section>
 					<h1>Reveal.js</h1>
 					<h3>The HTML Presentation Framework</h3>
@@ -164,16 +194,16 @@
 					<p>
 						reveal.js comes with a few themes built in: <br>
 						<!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. -->
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;">Black (default)</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;">White</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;">League</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;">Sky</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;">Beige</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;">Simple</a> <br>
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;">Serif</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;">Night</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;">Moon</a> -
-						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;">Solarized</a>
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','revealjs/css/theme/black.css'); return false;">Black (default)</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','revealjs/css/theme/white.css'); return false;">White</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','revealjs/css/theme/league.css'); return false;">League</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','revealjs/css/theme/sky.css'); return false;">Sky</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','revealjs/css/theme/beige.css'); return false;">Beige</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','revealjs/css/theme/simple.css'); return false;">Simple</a> <br>
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','revealjs/css/theme/serif.css'); return false;">Serif</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','revealjs/css/theme/night.css'); return false;">Night</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','revealjs/css/theme/moon.css'); return false;">Moon</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','revealjs/css/theme/solarized.css'); return false;">Solarized</a>
 					</p>
 				</section>
 
